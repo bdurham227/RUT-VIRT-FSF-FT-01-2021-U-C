@@ -19,7 +19,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/*could convert to an id*/
 .header h1 .seo {
     color: #d9dcd6;
 }
